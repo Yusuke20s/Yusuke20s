@@ -1,5 +1,7 @@
 # Yusuke  
 
+![school](https://img.shields.io/badge/school-NIT,%20Ibaraki%20College-8d2d3f?style=for-the-badge)  
+
 普段はPythonでDiscordBotを作っています。  
 
 ## About me  
