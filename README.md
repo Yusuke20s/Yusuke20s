@@ -22,4 +22,4 @@
 
 ![](https://img.shields.io/badge/-Discord-262626?logo=discord&style=flat)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuke20s&count_private=true&theme=darcula&layout=compact)  
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuke20s&count_private=true&theme=darcula&layout=compact&langs_count=10)  
